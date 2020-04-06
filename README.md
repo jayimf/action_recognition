@@ -1,9 +1,13 @@
 # action_recognition using OpenCV and Python
 
 Libraries needed
+
 cv2
+
 imutils
+
 numpy
+
 sklearn
 
 # concepts used in this module:
